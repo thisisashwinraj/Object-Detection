@@ -1,5 +1,5 @@
 # Object-Detection
-This repository contains the code and related materials for performing object detection. The project is distributed under MIT License.
+This repository contains the code and related materials for performing object detection. The project is distributed under [MIT License](https://github.com/ashwinraj-in/Object-Detection/blob/master/LICENSE).
 
 # Installation
 
