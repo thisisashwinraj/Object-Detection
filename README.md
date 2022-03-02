@@ -26,7 +26,7 @@ I've included some basic information in this README to help you get started with
 
 You can check the latest sources with the command::
 
-    git clone https://github.com/ashwinraj-in/Object-Detection
+    git clone https://github.com/ashwinraj-in/Object-Detection.git
 
 ###  License
 
